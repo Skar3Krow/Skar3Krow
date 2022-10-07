@@ -8,9 +8,9 @@ Still digging deeper into the world of Programming.
 
 * 🌍  I'm based in Ahmedabad
 * ✉️  You can contact me at [dregoexistenciodotofficial@gmail.com](mailto:dregoexistenciodotofficial@gmail.com)
-* 🧠  I'm learning Python for Artificial Intelligence and Machine Learning, Data Structures and Algorithms for Python
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I know Batman's real name!!
+* 🧠  Currently working on my Web Develpment Skills. ❤️ to code. PYTHON🔥🐍
+* 🤝  I'm open to collaborating on Projects
+* ⚡  In the wise words of my idol: Wubba Lubba Dub Dub !!!
 
 ### Skills
 
