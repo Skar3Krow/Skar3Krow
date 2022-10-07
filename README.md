@@ -28,13 +28,13 @@ Still digging deeper into the world of Programming.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Skar3Krow"><img src="https://github-readme-stats.vercel.app/api?username=Skar3Krow&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Skar3Krow's GitHub stats" /></a>
+<a href="http://www.github.com/Skar3Krow"><img src="https://github-readme-stats.vercel.app/api?username=Skar3Krow&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Skar3Krow's GitHub stats" /></a>
 
-<a href="http://www.github.com/Skar3Krow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Skar3Krow&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Skar3Krow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Skar3Krow&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/Skar3Krow"><img src="https://activity-graph.herokuapp.com/graph?username=Skar3Krow&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Skar3Krow"><img src="https://activity-graph.herokuapp.com/graph?username=Skar3Krow&bg_color=1c1917&color=f97316&line=0891b2&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Skar3Krow" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skar3Krow&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Skar3Krow" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skar3Krow&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
