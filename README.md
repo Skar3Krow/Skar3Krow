@@ -6,24 +6,23 @@ Student
 
 Still digging deeper into the world of Programming.
 
-* 🌍  I'm based in Ahmedabad
-* ✉️  You can contact me at [dregoexistenciodotofficial@gmail.com](mailto:dregoexistenciodotofficial@gmail.com)
-* 🧠  Currently working on my Web Develpment Skills. ❤️ to code. PYTHON🔥🐍
+* 🌍  I'm based in Ahmedabad
+* ✉️  You can contact me at [dregoexistenciodotofficial@gmail.com](mailto:dregoexistenciodotofficial@gmail.com)
+* 🧠  I'm learning Python for Artificial Intelligence and Machine Learning, Data Structures and Algorithms for Python
 * 🤝  I'm open to collaborating on Projects
-* ⚡  In the wise words of my idol: Wubba Lubba Dub Dub !!!
+* ⚡  I know Batman's real name!!
 
 ### Skills
 
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
-
 
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Skar3Krow#6098" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Skar3Krow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
