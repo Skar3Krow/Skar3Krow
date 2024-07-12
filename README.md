@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Singh
 ====================================================================================================================================
 
-MERN Developer and Attack Helicopter
+Programmer and Developer
 ------------------------------------
 
-Still digging deeper into the world of Programming and Development. I am certified Python Programmer and a Full Stack Web Developer.
+Still digging deeper into the world of Programming and Development. I am certified Python Programmer.
 
 * 🌍  I'm based in Ahmedabad
 * ✉️  You can contact me at [dregoexistenciodotofficial@gmail.com](mailto:dregoexistenciodotofficial@gmail.com)
-* 🧠  I'm learning Block-Chain
+* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on Anything Nerdyy
 
 ### Skills
