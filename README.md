@@ -8,6 +8,7 @@ Digging deeper into the world of Programming and Development.
 
 * 🌍  I'm based in Ahmedabad
 * ✉️  You can contact me at [dregoexistenciodotofficial@gmail.com](mailto:dregoexistenciodotofficial@gmail.com)
+* 💀  I know I'm recursively calling my github ID in my socials
 * 🤝  I'm open for collaboration
 
 ### Skills
