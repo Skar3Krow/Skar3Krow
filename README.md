@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer and Developer
 ------------------------
 
-Still digging deeper into the world of Programming and Development. Certified Python Programmer.
+Digging deeper into the world of Programming and Development.
 
 * 🌍  I'm based in Ahmedabad
 * ✉️  You can contact me at [dregoexistenciodotofficial@gmail.com](mailto:dregoexistenciodotofficial@gmail.com)
-* 🧠  I'm learning Rust
-* 🤝  I'm open to collaborating on anything cs related (literally)
+* 🤝  I'm open for collaboration
 
 ### Skills
 
